@@ -1,10 +1,10 @@
 ## alura-hooks-function-components
 
-###Aprofundar os conhecimentos em React: Function Components.
+### Aprofundar os conhecimentos em React: Function Components.
 
-###CURSO DA ALURA: React: Function Components, uma abordagem moderna.
+### CURSO DA ALURA: React: Function Components, uma abordagem moderna.
 
-##Comandos básicos
+## Comandos básicos
 
 #### 1- Criar suas pastas locais
 #### 2- Dar o comando npx create-react-app nome-da-pasta onde vai realmente salvar seus arquivos
