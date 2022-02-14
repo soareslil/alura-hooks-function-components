@@ -16,12 +16,19 @@
 
 
 ###### Nesse projeto é utilizado componentes pré-processados do Material UI (MUI) 
+
 ####### Site do MUI: https://mui.com/pt/
+
 ####### Atributos especificos do MUI que utilizei nesse projeto: 
+
 ####### Container: https://mui.com/pt/components/container/#main-content
+
 ####### Typography: https://mui.com/pt/components/typography/#main-content
+
 ####### Button: https://mui.com/pt/components/buttons/#main-content
+
 ####### Switch: https://mui.com/pt/api/switch-unstyled/#main-content
+
 ####### FormControlLabel: https://mui.com/pt/api/form-control-label/#main-content
 
 
